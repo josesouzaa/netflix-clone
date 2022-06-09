@@ -6,6 +6,8 @@ import { Row } from '../components/Row'
 
 import requests from '../utils/requests'
 
+import { useAuth } from '../hooks/useAuth'
+
 import { Movie } from '../typings'
 
 interface Props {
@@ -29,6 +31,9 @@ export default function Home({
   topRated,
   trendingNow
 }: Props) {
+  const { loading } = useAuth()
+
+  if (loading) return null
   return (
     <div className="relative h-screen bg-gradient-to-b lg:h-[140vh]">
       <Head>

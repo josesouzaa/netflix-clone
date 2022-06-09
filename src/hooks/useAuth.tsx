@@ -33,7 +33,7 @@ interface AuthProviderProps {
 
 const AuthContext = createContext({} as IAuth)
 
-function AuthProvider({ children }: AuthProviderProps) {
+export function AuthProvider({ children }: AuthProviderProps) {
   const [user, setUser] = useState<User | null>(null)
   const [loading, setLoading] = useState<boolean>(false)
   const [initialLoading, setInitialLoading] = useState<boolean>(true)
