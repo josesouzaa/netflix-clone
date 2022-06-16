@@ -16,7 +16,7 @@ Clone da Netflix feito com Next.js, utilizando a API do [TMDB](https://www.themo
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px" height="auto"> About me
+## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px" height="25px"> About me
 
 - 👤 Bacharel em jornalismo se aventurando pelo mundo da programação, estudando stacks relacionadas ao front-end, focado em ReactJS
 
