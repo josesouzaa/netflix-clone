@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone da Netflix feito com Next.js, utilizando a API do [TMDB](https://www.themoviedb.org) para consumir o catálogo de filmes e Firebase para a realização do login por meio de email e senha.
+Clone da Netflix feito com Next.js, utilizando a API do [TMDB](https://www.themoviedb.org) para consumir o catálogo de filmes e Firebase para a realização do login por meio de email e senha. Projeto de referência: [NETFLIX WITH NEXT.JS](https://www.youtube.com/watch?v=cwqNAkwhKqw)
 
 ## ✨ Preview
 
